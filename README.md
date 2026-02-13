@@ -77,7 +77,7 @@ GET https://en.wikipedia.org/w/index.php?search=browser&title=Special:Search&pro
 Видим, что URL запроса содержит так называемые querys, в сути это переменные данные, которые мы хотим чтобы сервер обработал и вернул нам данные. search=browser - поиск по слову, title=Special:Search название, fulltext=1 флаг true и так далее
 Так как введённые наши данные не меняют данные на сервере, а только читает, то запрос всё ещё остаётся GET.
 
-![запрос](./images/clipboard_image_1770945626.png.png)
+![запрос](./images/clipboard_image_1770945626.png)
 
 ### Задание 3. Анализ HTTP-запросов. Часть 3
 
